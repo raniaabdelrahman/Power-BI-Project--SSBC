@@ -18,5 +18,4 @@ Here are the main steps. We'll go over each of these in more detail on the pages
 6. Build relationships between your tables. Build a relationship from each dimension to the relevant key on the fact table.
 7. Write your measures. To satisfy the CFO's requirements, we will need to write six measures—to calculate Sales, Cost of Sales and Gross Profit Margin in two different currencies.
 8. Create a report. Build a basic visual report to display your findings.
-9. The steps for this project follow the exact same flow we've been looking at throughout this course:
 
