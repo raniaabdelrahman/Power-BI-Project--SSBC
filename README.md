@@ -7,6 +7,7 @@ In this project, you'll create a data model and Power BI report for Seven Sages 
 In the end, you will have applied the key concepts of this course to combine and centralize previously siloed data, solving a very common issue facing many companies. More importantly, you'll have a solid foundation to build on when it comes to more complex reporting visualization demands, advanced DAX requirements, or larger data models. The core principles remain the same regardless of how large the data models get as your career progresses.
 
 **Main Steps**
+
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
 
 Source files. Download and familiarize yourself with the source files provided by SSBC.
